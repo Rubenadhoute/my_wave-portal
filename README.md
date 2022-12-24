@@ -1,5 +1,5 @@
 
-# Wave portal
+# My first Ethereum dApp
 
 WavePortal Website - just send me a 👋 .
 
@@ -9,16 +9,22 @@ P.S: There is a chance that you can win a small amount of ETH by just waving at 
 
 https://waveportal-starter-project.rubenadhoute.repl.co
 
+This project was completed in 2 steps :
+
+1. Writing + deploying the smart contract (both locally and on chain).
+
+2. Building the website that will let people actually connect their wallets and interact with the contract.
+
 
 ## Key Learnings
 
 1. BuildSpace 
 
-2. FE/BE connection- storing both contract address and its ABI on Replit
+2. FE/BE connection- working with ABI.
 
-3. Building a website that let people actually connect their wallets and interact -- Replit is dope!!
+3. Building a website that let people actually connect their wallets and interact
 
-4. Events on Solidity 
+4. Events on Solidity
 
 5. Smart Contract - "Internal transactions"
 
