@@ -5,14 +5,14 @@ WavePortal Website - just send me a 👋 .
 
 The Wave is saved on the blockchain through an Ethereum smart contract and displayed on the website. 
 
-P.S: There is a random chance that you can win a small amount of ETH by just waving at me...
+P.S: There is a chance that you can win a small amount of ETH by just waving at me...
 
 https://waveportal-starter-project.rubenadhoute.repl.co
 
 
 ## Key Learnings
 
-1. BuildSpace is dope
+1. BuildSpace 
 
 2. FE/BE connection- storing both contract address and its ABI on Replit
 
@@ -20,7 +20,7 @@ https://waveportal-starter-project.rubenadhoute.repl.co
 
 4. Events on Solidity 
 
-5. Smart Contract - "Internal transactions":
+5. Smart Contract - "Internal transactions"
 
 
 
