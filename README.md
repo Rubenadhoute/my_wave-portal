@@ -28,7 +28,7 @@ https://waveportal-starter-project.rubenadhoute.repl.co
 
 
 
-Check out my NFT that I got from Buildspace as a reward [here] (https://opensea.io/assets/matic/0x3CD266509D127d0Eac42f4474F57D0526804b44e/16474?force_update=true)
-(https://polygonscan.com/token/0x3cd266509d127d0eac42f4474f57d0526804b44e?a=16474)
+Check out my NFT that I got from Buildspace as a reward [here](https://opensea.io/assets/matic/0x3CD266509D127d0Eac42f4474F57D0526804b44e/16474?force_update=true)
+
 
 
